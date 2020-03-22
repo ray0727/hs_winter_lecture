@@ -1,5 +1,5 @@
 # high school winter lecture
-For the cooperation with Teacher Wang in Jianguo High School.
+For the cooperation with Teacher Wang in Jianguo High School.  
 It is a one day teaching material.
 Senior high school students can use this material to know python and demo car_cmd on duckiebot.  
 

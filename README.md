@@ -12,3 +12,4 @@ source ./setup_environment.sh aiXX
     
 jupyter notebook car_cmd.ipynb
 ```
+[Demo_Video](https://drive.google.com/file/d/1Y2lxiDaiCDdhkWNmFdWqYSo8_2bKQ2uT/view?usp=sharing)
